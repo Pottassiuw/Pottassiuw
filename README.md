@@ -30,7 +30,7 @@ Estudo ADS na FATEC (2° semestre) e estagio na **EDP** como analista no planeja
 
 ## 💼 Experiência
 
-🏢 **EDP** · Estagiário — Planejamento de Manutenção *(2025 – presente)*
+🏢 **EDP** · Estagiário — Planejamento de Manutenção *(presente)*
 > Atuo como analista com Python, Power BI, Excel e ferramentas internas construídas por mim.
 
 ---
